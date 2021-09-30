@@ -1,3 +1,1 @@
-Welcome to R-DAVIS! 
-
-This is the 'README' file for your class repository -- a place where you can share notes for your project. Typically when you start a new project this can be a good place to provide an overview of what's happening in this R project. 
+My name is Lupita and I am in the GGE and JDPE Program with San Diego State University. My PI at UC Davis is Jorge Rodrigues. My research interests broadly include carbon cycling, methanogens/methanotrophs, and landscape ecology. 
